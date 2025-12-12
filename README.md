@@ -102,7 +102,7 @@ cd GC-Academy-First-Project
 npm install
 
 # json-server 실행 (사용 시)
-json-server --watch db.json --port 3001
+json-server --watch order_member.json --port 3001
 
 # React 실행
 npm start

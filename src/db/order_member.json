@@ -51,8 +51,7 @@
       "till": "5 Years",
       "Detail": "/images/liquor/Vodka/Kahlua Detail.png",
       "information": "데낄라, 커피, 설탕을 주성분으로 만들어진 멕시코산의 커피 리큐르(Liqueur)를 말한다",
-      "views": 10
-
+      "views": 12
     },
     {
       "id": "5",
@@ -93,7 +92,6 @@
       "Detail": "/images/liquor/Vodka/Absolut Vodka Detail.png",
       "information": "스웨덴의 보드카 브랜드. 한국에서는 보드카 = 러시아의 술이라는 인식 때문에 대개 앱솔루트 보드카를 러시아 브랜드라고 생각하고 있으나 실제로는 스웨덴의 보드카 브랜드이다. 보드카는 러시아뿐만 아니라 유럽, 미국, 캐나다 등 세계에서 사랑받는 술이다.\n 앱솔루트는 전체적으로 향이 무향에 가까우며 뒷맛이 연해서 스트레이트로 즐기기도 좋은 편이다. 술집의 경우, 토닉워터와 함께 얼음을 섞어 하이볼 형식으로 파는 곳이 많다.",
       "views": 15
-
     },
     {
       "id": "8",
@@ -641,6 +639,15 @@
       "age": "11",
       "address": "11",
       "role": "ROLE_ADMIN"
+    },
+    {
+      "id": "ff28",
+      "userEmail": "111@email.com",
+      "userPw": "1111",
+      "userName": "1111",
+      "age": "1111",
+      "address": "1111",
+      "role": "ROLE_MEMBER"
     }
   ],
   "order": [

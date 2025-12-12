@@ -70,7 +70,7 @@ https://github.com/Winn95/GC-Academy-First-Project.git
 
 프로젝트 간단 구조
 
-<img width="200" height="300" alt="image" src="smart_order/public/images/GitImage/structure.png" />
+<img width="200" height="300" alt="image" src="./public/images/GitImage/structure.png" />
 
 
 
@@ -78,20 +78,20 @@ https://github.com/Winn95/GC-Academy-First-Project.git
 
 1. 메인 랜딩 페이지, 배너 이미지 + 브랜드 메시지, Shop Now 버튼 배치
 
-<img width="1920" height="810" alt="image" src="smart_order/public/images/GitImage/MainPage.png" />
-<img width="1920" height="810" alt="image" src="smart_order/public/images/GitImage/IndexPage.png" />
+<img width="1920" height="810" alt="image" src="./public/images/GitImage/MainPage.png" />
+<img width="1920" height="810" alt="image" src="./public/images/GitImage/IndexPage.png" />
 
 
 2. 상품 리스트 페이지, 이미지, 상품명, 가격 표시, hover 효과로 주요 정보 강조
 
-<img width="1920" height="810" alt="image" src="smart_order/public/images/GitImage/ItemListPage.png" />
+<img width="1920" height="810" alt="image" src="./public/images/GitImage/ItemListPage.png" />
 
 3. 상품 상세 페이지, 상세 정보 및 추가 UI
 
-<img width="1920" height="810" alt="image" src="smart_order/public/images/GitImage/ItemListPage.png" />
+<img width="1920" height="810" alt="image" src="./public/images/GitImage/ItemListPage.png" />
 
 4. 장바구니 페이지
-<img width="1920" height="810" alt="image" src="smart_order/public/images/GitImage/CartPage.png" />
+<img width="1920" height="810" alt="image" src="./public/images/GitImage/CartPage.png" />
 
 🚀 Installation & Run
 bash

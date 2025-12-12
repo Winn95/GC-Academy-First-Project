@@ -17,7 +17,7 @@ const ContactSection = ({ isLoggedIn, itemId }) => {
     const fetchaxiosContact = async () => {
       try {
         const res = await axios.get(
-          `http://192.168.23.231:3001/contacts?itemId=${itemId}`
+          `http://localhost:3001/contacts?itemId=${itemId}`
         );
         setContacts(res.data);
       } catch (err) {
@@ -32,7 +32,7 @@ const ContactSection = ({ isLoggedIn, itemId }) => {
       return;
     }
     try {
-      await axios.delete(`http://192.168.23.231:3001/comments/${contactId}`);
+      await axios.delete(`http://localhost:3001/comments/${contactId}`);
       setContacts((prev) => prev.filter((c) => c.id !== contactId));
     } catch (err) {
       console.error("삭제실패:", err);
@@ -59,7 +59,7 @@ const ContactSection = ({ isLoggedIn, itemId }) => {
 
     try {
       const res = await axios.post(
-        "http://192.168.23.231:3001/contacts",
+        "http://localhost:3001/contacts",
         newContact
       );
       setContacts((prev) => [...prev, res.data]);

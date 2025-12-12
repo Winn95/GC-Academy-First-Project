@@ -4,7 +4,8 @@ import { useNavigate } from "react-router-dom";
 import { addCart } from "../../../slice/cartSlice";
 import { useDispatch } from "react-redux";
 import Modal from "react-modal";
-const itemUrl = "http://192.168.23.231:3001/items";
+// const itemUrl = "http://localhost:3001/items";
+const itemUrl = `http://localhost:3001/items`;
 
 const OrderVodkaContainer = () => {
   const goCart = () => {

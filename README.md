@@ -102,6 +102,7 @@ cd GC-Academy-First-Project
 
 # 패키지 설치 + json-server 실행 (사용 시)
 npm install
+
 json-server --watch order_member.json --port 3001
 
 # React 실행
@@ -140,4 +141,4 @@ UI/UX 애니메이션 추가
 👤 Developer
 이승준 (Jun)
 GitHub: https://github.com/Winn95
-Email: (원하시면 추가)
+Email: seungjun1995@naver.com
